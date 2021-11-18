@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-image
+imagecodecs
+tqdm
+pytest
+luigi
+openpyxl
+dl-utils@ git+https://github.com/fmi-basel/dl-utils

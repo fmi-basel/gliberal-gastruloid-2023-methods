@@ -1,0 +1,6 @@
+[console_scripts]
+goid = goid.luigi_workflow:main
+goid_train_debris = goid.debris_model.train:main
+goid_train_fg = goid.foreground_model.train:main
+goid_train_separator = goid.separator_model.train:main
+
